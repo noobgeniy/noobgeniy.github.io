@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1600px" height="71px" viewBox="0 0 1600 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Path 4</title>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="2.-Desktop-App" transform="translate(0.000000, -3942.000000)" fill="#F8FBFE">
-            <g id="PRICING" transform="translate(0.000000, 3436.000000)">
-                <path d="M-1.13686838e-13,515.215629 C324.291667,507.305643 587.636719,514.840685 790.035156,537.820755 C1093.63281,572.290862 1343.92969,598.233371 1600,550.533641 L1600,506 L-1.13686838e-13,506 L-1.13686838e-13,515.215629 Z" id="Path-4"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg width="1600" height="71" xmlns="http://www.w3.org/2000/svg"><path d="M0 9.216c324.292-7.91 587.637-.375 790.035 22.605C1093.633 66.29 1343.93 92.233 1600 44.534V0H0v9.216Z" fill="#F8FBFE" fill-rule="evenodd"/></svg>
